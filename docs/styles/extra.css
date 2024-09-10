@@ -1,0 +1,26 @@
+/* Toolbar weiß färben */
+.md-header {
+    background-color: white;
+    color: black;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Titel (h1, h2, h3, etc.) mit Space Grotesk */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+/* Text mit Inter */
+body, p {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Ändere die Farbe der Links in der Toolbar */
+.md-header a {
+    color: black;
+}
+
+/* Anpassungen für den Hover-Zustand von Links */
+.md-header a:hover {
+    color: #0078d4; /* Blau für Hover-Effekt */
+}

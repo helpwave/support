@@ -2,6 +2,15 @@ site_name: Helpwave Supportcenter
 site_url: https://support.helpwave.de
 theme:
   name: 'material'
+  logo: 'images/logo.png'
+  favicon: 'images/favicon.ico'
+  palette:
+    primary: 'blue'
+    accent: 'light-blue'
+    scheme: 'default'
+  font:
+    text: 'Inter'
+    code: 'Roboto Mono'
 nav:
   - Home: index.md
 markdown_extensions:
