@@ -1,8 +1,5 @@
 site_name: Helpwave Supportcenter
 site_url: https://support.helpwave.de
-extra:
-    link: https://cdn.helpwave.de/imprint.html
-    name: Impressum
 theme:
   name: 'material'
   logo: 'images/logo.svg'
@@ -16,9 +13,16 @@ theme:
     code: 'Roboto Mono'
 nav:
   - Impressum: https://cdn.helpwave.de/imprint.html
+  - Datenschutz: https://cdn.helpwave.de/privacy.html
   - Home: index.md
 markdown_extensions:
   - codehilite
   - admonition
 extra_css:
   - styles/extra.css
+#extra:
+#  social:
+#    - name: Impressum
+#      link: https://cdn.helpwave.de/imprint.html
+#    - name: Datenschutz
+#      link: https://cdn.helpwave.de/privacy.html
