@@ -1,4 +1,4 @@
-/* Toolbar weiß färben */
+/* Toolbar farben*/
 .md-header {
     background-color: white;
     color: black;
@@ -15,12 +15,12 @@ body, p {
     font-family: 'Inter', sans-serif;
 }
 
-/* Ändere die Farbe der Links in der Toolbar */
+/* die Farbe der Links in der Toolbar */
 .md-header a {
     color: black;
 }
 
-/* Anpassungen für den Hover-Zustand von Links */
+/* Hover-Zustand von Links */
 .md-header a:hover {
-    color: #0078d4; /* Blau für Hover-Effekt */
+    color: rgb(50 114 223); /* Blau für Hover-Effekt */
 }
