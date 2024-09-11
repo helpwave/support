@@ -2,8 +2,8 @@ site_name: Helpwave Supportcenter
 site_url: https://support.helpwave.de
 theme:
   name: 'material'
-  logo: 'images/logo.png'
-  favicon: 'images/favicon.ico'
+  logo: 'images/logo.svg'
+  favicon: 'images/logo.svg'
   palette:
     primary: 'blue'
     accent: 'light-blue'
