@@ -1,28 +1,24 @@
-site_name: Helpwave Supportcenter
+site_name: helpwave support
 site_url: https://support.helpwave.de
 theme:
   name: 'material'
   logo: 'images/logo.svg'
   favicon: 'images/logo.svg'
+  language: 'de'
   palette:
-    primary: 'blue'
-    accent: 'light-blue'
+    primary: 'deep-purple'
+    accent: 'purple'
     scheme: 'default'
   font:
     text: 'Inter'
     code: 'Roboto Mono'
 nav:
-  - Impressum: https://cdn.helpwave.de/imprint.html
-  - Datenschutz: https://cdn.helpwave.de/privacy.html
   - Home: index.md
+  - Kontakt:
+    - Impressum: https://cdn.helpwave.de/imprint.html
+    - Datenschutz: https://cdn.helpwave.de/privacy.html
 markdown_extensions:
   - codehilite
   - admonition
 extra_css:
   - styles/extra.css
-#extra:
-#  social:
-#    - name: Impressum
-#      link: https://cdn.helpwave.de/imprint.html
-#    - name: Datenschutz
-#      link: https://cdn.helpwave.de/privacy.html
