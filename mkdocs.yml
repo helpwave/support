@@ -57,7 +57,7 @@ extra_javascript:
 extra_css:
   - styles/extra.css
 
-copyright: 'Copright &copy; <a href="https://helpwave.de" target="_blank">helpwave GmbH</a> | <a href="https://cdn.helpwave.de/imprint.html" target="_blank">Impressum</a> | <a href="https://cdn.helpwave.de/privacy.html" target="_blank">Datenschutz</a>'
+copyright: 'Copright &copy; <a href="https://helpwave.de" target="_blank">helpwave GmbH</a> • <a href="https://cdn.helpwave.de/imprint.html" target="_blank">Impressum</a> • <a href="https://cdn.helpwave.de/privacy.html" target="_blank">Datenschutz</a>'
 
 extra:
   social:
