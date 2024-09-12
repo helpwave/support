@@ -1,5 +1,3 @@
-![Banner](https://cdn.helpwave.io/logo/banner.png)
-
 ## Willkommen zur helpwave Support-Dokumentation!
 
 Diese Anleitung bietet umfassende Unterstützung für alle Nutzergruppen der helpwave Produkte – egal, ob Sie als Patient, Praxis oder Ärztenetz unsere App verwenden.  

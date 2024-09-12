@@ -1,24 +1,77 @@
-site_name: helpwave support
-site_url: https://support.helpwave.de
+site_name: 'helpwave support'
+site_description: "helpwave support guide"
+site_url: 'https://support.helpwave.de'
+
+repo_name: 'helpwave/support'
+repo_url: 'https://github.com/helpwave/support'
+
+site_author: 'https://github.com/helpwave'
+edit_uri: 'https://github.dev/helpwave/support/blob/main/docs'
+
 theme:
   name: 'material'
-  logo: 'images/logo.svg'
-  favicon: 'images/logo.svg'
+  logo: 'https://cdn.helpwave.de/logo/logo_white.svg'
+  favicon: 'https://cdn.helpwave.de/logo/logo_white.svg'
   language: 'de'
+  direction: ltr
   palette:
-    primary: 'deep-purple'
-    accent: 'purple'
-    scheme: 'default'
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: 'deep-purple'
+      accent: 'purple'
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: 'deep-purple'
+      accent: 'purple'
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
   font:
     text: 'Inter'
     code: 'Roboto Mono'
-nav:
-  - Home: index.md
-  - Kontakt:
-    - Impressum: https://cdn.helpwave.de/imprint.html
-    - Datenschutz: https://cdn.helpwave.de/privacy.html
+  icon:
+    repo: fontawesome/brands/github
+
+  features:
+    - content.action.edit
+    - search.suggest
+    - search.highlight
+
 markdown_extensions:
   - codehilite
   - admonition
+
+plugins:
+  - git-revision-date-localized
+  - search:
+      lang: 'de'
+  - include-markdown
+  - git-authors
+
+extra_javascript:
+  - js/home.js
+
 extra_css:
   - styles/extra.css
+
+copyright: 'Copright &copy; <a href="https://helpwave.de" target="_blank">helpwave GmbH</a> | <a href="https://cdn.helpwave.de/imprint.html" target="_blank">Impressum</a> | <a href="https://cdn.helpwave.de/privacy.html" target="_blank">Datenschutz</a>'
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: 'https://github.com/helpwave'
+    - icon: fontawesome/brands/linkedin
+      link: 'https://linkedin.com/company/helpwave/'
+    - icon: fontawesome/brands/instagram
+      link: 'https://instagram.com/helpwave_de/'
+    - icon: fontawesome/brands/youtube
+      link: 'https://www.youtube.com/@helpwave'
+    - icon: fontawesome/brands/twitch
+      link: 'https://www.twitch.tv/helpwave'
+    - icon: fontawesome/brands/twitter
+      link: 'https://twitter.com/helpwave_org'
+    - icon: fontawesome/brands/spotify
+      link: 'https://open.spotify.com/show/6hL5UMytp81gmURnfn3dS9'
