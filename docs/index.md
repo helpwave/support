@@ -4,8 +4,7 @@ Diese Anleitung bietet umfassende Unterstützung für alle Nutzergruppen der hel
 Hier finden Sie Schritt-für-Schritt-Anweisungen, hilfreiche Tipps und Lösungen zu häufigen Fragen, damit Sie das Beste aus der App herausholen können.
 
 ### Patienten
-- [Einführung](./patienten/intro.md)
-- [Erste Schritte](./patienten/erste-schritte.md)
+- [App zum Doc Infomaterial](./patienten/AppzumDoc.md)
 - [Häufige Probleme](./patienten/faq.md)
 - Tutorials
     - [Rezeptanfrage](./patienten/tutorials/rezeptanfrage.md)
@@ -13,9 +12,8 @@ Hier finden Sie Schritt-für-Schritt-Anweisungen, hilfreiche Tipps und Lösungen
     - [App-Installation](./patienten/tutorials/installation.md)
 
 ### Ärztepraxen
-- [Einführung](./praxen/intro.md)
-- [Einrichtung der App](./praxen/einrichtung.md)
-- [Verwaltung von Rezeptanfragen](./praxen/rezeptanfragen.md)
+- [App zum Doc Infomaterial](./praxen/AppzumDoc.md)
+- [mediQuu Netzmanager Infomaterial](./praxen/mediQuu Netzmanager.md)
 - [FAQs](./praxen/faq.md)
 - Tutorials
     - [Benutzerverwaltung](./praxen/tutorials/benutzerverwaltung.md)
