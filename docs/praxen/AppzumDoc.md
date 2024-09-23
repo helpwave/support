@@ -1,6 +1,6 @@
 ## App zum Doc Infomaterial
 
-FAQs 
+FAQs
 
 1. Wie kann ich für meine Patienten die App und die Patienten-Services anbieten?
 Sie können einen Praxiseintrag in der App zum Doc online bestellen unter  oder sprechen Sie uns per E-Mail an: support@mediquu.de 
@@ -38,3 +38,4 @@ Ja. In Ihrem Praxis-Account können Sie selbst entscheiden, ob Sie Termin-, Reze
 
 12. Kann ich für Terminbestellungen selber Fragen formulieren, die Patienten im Vorfeld beantworten müssen? 
 Ja. Sie können beliebig viele Fragen formulieren und zusätzlich wählen ober der Patient mit "Ja oder Nein", "einem Datum" oder "Freitext" antworten soll. So erhalten Sie alle relevanten Informationen zur Anfrage, die eine Entscheidung für die Terminvergabe erleichtern. Gibt es dennoch Rückfragen, steht zudem die Chat-Funktion zur Verfügung.
+

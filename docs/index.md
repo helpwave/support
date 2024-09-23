@@ -5,7 +5,13 @@ Hier finden Sie Schritt-für-Schritt-Anweisungen, hilfreiche Tipps und Lösungen
 
 ### Patienten
 - [App zum Doc Infomaterial](./patienten/AppzumDoc.md)
-- [Häufige Probleme](./patienten/faq.md)
+- [FAQs](./patienten/faq.md)
+- Test Position
+- Test
+    - 1
+    - 2
+    - 3 
+- Test nochmal
 - Tutorials
     - [Rezeptanfrage](./patienten/tutorials/rezeptanfrage.md)
     - [Terminbuchung](./patienten/tutorials/terminbuchung.md)
@@ -13,7 +19,7 @@ Hier finden Sie Schritt-für-Schritt-Anweisungen, hilfreiche Tipps und Lösungen
 
 ### Ärztepraxen
 - [App zum Doc Infomaterial](./praxen/AppzumDoc.md)
-- [mediQuu Netzmanager Infomaterial](./praxen/mediQuu Netzmanager.md)
+- [mediquu Netzmanager Infomaerial](./praxen/einrichtung.md)
 - [FAQs](./praxen/faq.md)
 - Tutorials
     - [Benutzerverwaltung](./praxen/tutorials/benutzerverwaltung.md)
@@ -24,4 +30,3 @@ Hier finden Sie Schritt-für-Schritt-Anweisungen, hilfreiche Tipps und Lösungen
 - [Integration der App](./aerztenetze/integration.md)
 - [Datensicherheit](./aerztenetze/datensicherheit.md)
 - [Support-Kontakt](./aerztenetze/support.md)
-
