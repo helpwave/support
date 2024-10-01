@@ -1,6 +1,6 @@
 ## Hier finden Sie alle Infos zum mediquee Netzmanager
 
-Handbuch: [Das Multitalent für Praxisnetze](./Dokumente_Ärztenetze/handbuch_mediquu_netzmanager.pdf)
+Handbuch: [Das Multitalent für Praxisnetze](./Dokumente/Ärztenetze/handbuch_mediquu_netzmanager.pdf)
 Folgende Themen werden erklärt:
     - Login & Passwort ändern
 
