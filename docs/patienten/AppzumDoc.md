@@ -2,7 +2,7 @@
 
 ![App zum Doc Logo](helpwave/support/Dokumente/Patienten/handbuch_azd_patient_bild.pdf)
 
-Handbuch: [Das Multitalent für Praxisnetze](helpwave/support/Dokumente/handbuch_azd_patient.pdf){:target="_blank"}
+Handbuch: [Das Multitalent für Praxisnetze](helpwave/support/Dokumente/Patienten/handbuch_azd_patient.pdf){:target="_blank"}
 
 Folgende Themen werden behandelt:
 
