@@ -6,7 +6,7 @@ Schau dich um und finde schnell die Antworten, die Du suchst. Falls Du trotzdem 
 
 ![App zum Doc Logo](../../Dokumente/Patienten/handbuch_azd_patient_bild.pdf)
 
-Hier findest Du Handbuch als Pdf Datei: [Das Multitalent für Praxisnetze](/Dokumente/Patienten/handbuch_azd_patient.pdf){:target="_blank"}
+Hier findest Du Handbuch als Pdf Datei: [Das Multitalent für Praxisnetze](../Dokumente/Patienten/handbuch_azd_patient.pdf){:target="_blank"}
 
 Folgende Themen werden behandelt:
 
