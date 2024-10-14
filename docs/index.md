@@ -1,5 +1,7 @@
  Willkommen zur helpwave Support-Dokumentation!
 
+![Bild Vernetzung](../../Dokumente/Patienten/handbuch_azd_patient_bild.pdf)
+
 Diese Anleitung bietet umfassende Unterstützung für alle Nutzergruppen der helpwave Produkte – egal, ob Sie als Patient, Praxis oder Ärztenetz unsere App verwenden.  
 Hier finden Sie Schritt-für-Schritt-Anweisungen, hilfreiche Tipps und Lösungen zu häufigen Fragen, damit Sie das Beste aus der App herausholen können.
 
