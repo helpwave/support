@@ -14,7 +14,7 @@ Als Multitalent für Praxisnetze hilft Mediquu Ihnen dabei, die Abläufe in Ihre
   </div>
   <div style="flex: 1;">
     <!-- PDF-Bereich -->
-    <embed src="../../Dokumente/Praxen/handbuch_azd_patient.pdf" width="400" height="500" type="application/pdf">
+    <embed src="../../Dokumente/Praxen/handbuch_mediquu_netzmanager.pdf" width="400" height="500" type="application/pdf">
   </div>
 </div>
 
