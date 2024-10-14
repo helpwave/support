@@ -1,6 +1,6 @@
 ## FAQ - häufig gestellte Fragen
 
-### Mediquu Cloud: Wie kann ich Rechte auf eine Ordnerstruktur verteilen?
+### Mediquu Cloud: Wie kann ich Rechte auf eine Ordnerstruktur verteilen und anpassen?
 
 Grundsätzlich gilt: Die Verwaltung der Lese- und Schreibberechtigungen in der mediQuu Cloud erfolgt direkt über Nextcloud. Wir legen lediglich die Zugänge an, die Rechteverwaltung liegt bei den jeweiligen Besitzern der Ordner. Daher kann nur der Besitzer des Hauptordners, die Schreibberechtigungen für verschiedene Ordner anpassen.
 
