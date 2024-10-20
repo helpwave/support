@@ -6,13 +6,13 @@ Grundsätzlich gilt: Die Verwaltung der Lese- und Schreibberechtigungen in der m
 
 1 Schritt: Freigabeempänger hinzufügen
 
-![OrdnerStruktur1](helpwave/support/docs/Dokumente/Ärtzenetz/OrdnerStruktur1.png)
+![OrdnerStruktur1](helpwave/support/docs/Dokumente/Ärtzenetz/ordnerfreigabe_1.pdf)
 
 Zunächst muss der "+" Button angewählt werden, um nach der gewünschten Person zu suchen, die hinzugefügt werden soll.
 
 2. Schritt: Benutzerdefinierte Berechtigungen
 
-![OrdnerStruktur2](helpwave/support/docs/Dokumente/Ärtzenetz/OrdnerStruktur2.png)
+![OrdnerStruktur2](helpwave/support/docs/Dokumente/Ärtzenetz/ordnerfreigabe_2.pdf)
 
 Sobald die Ordnerstruktur mit der gewünschte Person geteilt wird, können diese Berechtigungen angepasst werden.
 Anschließend bitte die Änderungen mit Klicken des "Freigabe speichern"-Buttons gespeichert werden.

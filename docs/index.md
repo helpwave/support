@@ -1,6 +1,6 @@
  Willkommen zur helpwave Support-Dokumentation!
 
-![Bild Vernetzung](../docs/)
+![Bild Vernetzung](helpwave/support/docs/aerztenetze/uebersicht_vernetzung.pdf)
 
 
 
