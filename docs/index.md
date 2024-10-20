@@ -18,3 +18,8 @@
 ### Ärztenetze
 - [mediquu Netzmanager Infomaterial](./aerztenetze/mediquu_Netzmanager_netze.md)
 - [FAQs](./aerztenetze/faq.md)
+
+
+
+Für weitere Fragen oder individuelle Unterstützung stehen wir Ihnen gerne zur Verfügung. Schreiben Sie uns einfach eine E-Mail an support@helwave.de
+– wir freuen uns darauf, Ihnen zu helfen!
