@@ -7,7 +7,7 @@ Grundsätzlich gilt: Die Verwaltung der Lese- und Schreibberechtigungen in der m
     1 Schritt: Freigabeempfänger hinzufügen
 
 ![OrdnerStruktur1](../../docs/Dokumente/Ärtzenetz/ordnerfreigabe_1.pdf)
-<embed src="../../docs/Dokumente/Ärztenetz/ordnerfreigabe_1.pdf" width="400" height="500" type="application/pdf">
+<embed src="../../docs/Dokumente/Ärztenetz/ordnerfreigabe_1.pdf" width="800" height="500" type="application/pdf">
 
 
 Zunächst muss der "+" Button angewählt werden, um nach der gewünschten Person zu suchen, die hinzugefügt werden soll.
@@ -15,7 +15,7 @@ Zunächst muss der "+" Button angewählt werden, um nach der gewünschten Person
     2. Schritt: Benutzerdefinierte Berechtigungen
 
 ![OrdnerStruktur2](../../docs/Dokumente/Ärtzenetz/ordnerfreigabe_2.pdf)
-<embed src="../../docs/Dokumente/Ärztenetz/ordnerfreigabe_2.pdf" width="400" height="500" type="application/pdf">
+<embed src="../../docs/Dokumente/Ärztenetz/ordnerfreigabe_2.pdf" width="800" height="600" type="application/pdf">
 
 
 Sobald die Ordnerstruktur mit der gewünschte Person geteilt wird, können diese Berechtigungen angepasst werden.
