@@ -1,6 +1,6 @@
  Willkommen zur helpwave Support-Dokumentation!
 
-![Bild Vernetzung](helpwave/support/docs/aerztenetze/uebersicht_vernetzung.pdf)
+![Bild Vernetzung](../../docs/Dokumente/Allgemein/uebersicht_vernetzung.pdf)
 
 
 
@@ -21,5 +21,6 @@
 
 
 
-Für weitere Fragen oder individuelle Unterstützung stehen wir Ihnen gerne zur Verfügung. Schreiben Sie uns einfach eine E-Mail an support@helwave.de
+Für weitere Fragen oder individuelle Unterstützung stehen wir Ihnen gerne zur Verfügung. Schreiben Sie uns einfach eine E-Mail an **support@helpwave.de**
+
 – wir freuen uns darauf, Ihnen zu helfen!
