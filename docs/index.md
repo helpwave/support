@@ -1,6 +1,6 @@
  Willkommen zur helpwave Support-Dokumentation!
 
-<embed src="../../Dokumente/Patienten/handbuch_azd_patient.pdf" width="600" height="400" type="application/pdf">
+<embed src="../../Dokumente/Allgemein/uebersicht_vernetzung.pdf" width="600" height="400" type="application/pdf">
 
 ### Patienten
 - [App zum Doc Infomaterial](./patienten/AppzumDoc.md)

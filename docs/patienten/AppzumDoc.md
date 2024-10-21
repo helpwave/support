@@ -4,7 +4,6 @@
 Egal, ob Du Unterstützung bei der Einrichtung benötigst oder nach Tipps suchst, um das Beste aus der App herauszuholen – wir haben alles für dich vorbereitet!
 Schau dich um und finde schnell die Antworten, die Du suchst. Falls Du trotzdem noch Hilfe brauchst, steht unser Support-Team natürlich gerne zur Verfügung.
 
-![App zum Doc Logo](../../Dokumente/Patienten/handbuch_azd_patient_bild.pdf)
 
 Öffne das Handbuch als Pdf Datei: [Das Multitalent für Praxisnetze](../../Dokumente/Patienten/handbuch_azd_patient.pdf)
 
