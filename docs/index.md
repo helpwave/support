@@ -1,6 +1,7 @@
  Willkommen zur helpwave Support-Dokumentation!
 
-<embed src="../../Dokumente/Allgemein/uebersicht_vernetzung.pdf" width="500" height="300" type="application/pdf">
+<embed src="../../Dokumente/Allgemein/uebersicht_vernetzung.pdf" width="500" height="300" type="application/pdf" style="border:none;">
+
 
 ### Patienten
 - [App zum Doc Infomaterial](./patienten/AppzumDoc.md)
