@@ -1,17 +1,17 @@
  Willkommen zur helpwave Support-Dokumentation!
 
-<embed src="../../Dokumente/Allgemein/uebersicht_vernetzung.pdf" width="500" height="300" type="application/pdf" style="border:none;">
+<div style="border:none; padding:0; margin:0;">
+    <embed src="../../Dokumente/Allgemein/uebersicht_vernetzung.pdf" width="500" height="300" type="application/pdf" style="border:none; display:block;">
+</div>
 
 
 ### Patienten
 - [App zum Doc Infomaterial](./patienten/AppzumDoc.md)
-- [FAQs](./patienten/faq.md)
 
 
 ### Ärztepraxen
 - [App zum Doc Infomaterial](./praxen/AppzumDoc.md)
 - [mediquu Netzmanager Infomaterial](./praxen/mediquu_Netzmanager.md)
-- [FAQs](./praxen/faq.md)
 
 
 ### Ärztenetze
